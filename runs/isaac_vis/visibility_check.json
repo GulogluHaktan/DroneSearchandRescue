@@ -1,0 +1,75 @@
+{
+ "args": {
+  "seed": 3,
+  "poses": 1,
+  "width": 960,
+  "height": 540,
+  "hfov": 80.0,
+  "out_dir": "/workspace/DroneTubitak1002/runs/isaac_vis",
+  "save_rgb": 0,
+  "enable_cameras": true,
+  "xr": false,
+  "device": "cuda:0",
+  "visualizer": [],
+  "cpu": false,
+  "verbose": false,
+  "info": false,
+  "deterministic": false,
+  "rendering_mode": null,
+  "kit_args": "",
+  "anim_recording_enabled": false,
+  "anim_recording_start_time": 0,
+  "anim_recording_stop_time": 10,
+  "headless": true,
+  "hide_ui": true,
+  "create_new_stage": false,
+  "physics_gpu": 0,
+  "active_gpu": 0
+ },
+ "summary": {
+  "above": {
+   "n": 0
+  },
+  "under": {
+   "n": 0
+  }
+ },
+ "poses": [
+  {
+   "layer": "above",
+   "person": 2,
+   "eye": [
+    118.92667388916016,
+    85.8548583984375,
+    59.372467041015625
+   ],
+   "target": [
+    117.68311309814453,
+    70.88339233398438,
+    3.055304527282715
+   ],
+   "vis_fast": 0.0,
+   "px_full": 0,
+   "px_open": 0,
+   "vis_render": NaN
+  },
+  {
+   "layer": "under",
+   "person": 0,
+   "eye": [
+    123.08509063720703,
+    85.41613006591797,
+    6.357551574707031
+   ],
+   "target": [
+    110.4159927368164,
+    76.90724182128906,
+    3.354724168777466
+   ],
+   "vis_fast": 1.0,
+   "px_full": 0,
+   "px_open": 0,
+   "vis_render": NaN
+  }
+ ]
+}

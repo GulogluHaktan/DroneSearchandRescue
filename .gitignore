@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+runs/video_frames/
+runs/*.log
+runs/*.pt
+.venv/
